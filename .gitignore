@@ -129,8 +129,4 @@ dmypy.json
 .pyre/
 intoduction/venv
 ./*/venv
-./*/data
 ./*/conf.py
-./*/Wandb
-./*/wandb
-*/*/conf.py
