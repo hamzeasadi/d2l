@@ -133,3 +133,4 @@ intoduction/venv
 ./*/conf.py
 ./*/Wandb
 ./*/wandb
+*/*/conf.py
