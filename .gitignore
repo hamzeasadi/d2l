@@ -128,3 +128,8 @@ dmypy.json
 # Pyre type checker
 .pyre/
 intoduction/venv
+./*/venv
+./*/data
+./*/conf.py
+./*/Wandb
+./*/wandb
