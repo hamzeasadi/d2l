@@ -130,3 +130,4 @@ dmypy.json
 intoduction/venv
 ./*/venv
 ./*/conf.py
+**/*/conf.py
